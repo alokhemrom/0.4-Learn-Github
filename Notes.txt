@@ -1,1 +1,19 @@
 Learning Git and Git Hub is Fun
+-----------------------------------------------------------
+
+Git Commands:
+    git init
+    git status
+    git add index.html
+    git add .
+    git commit -m "First Commit"
+
+    git config --global user.email "..."
+    git config --global user.name "..." //only one time needed
+
+    git remote add origin https://github...... .git
+    git push -u origin master
+
+Change in Github website that reflect in VS Code
+    git fetch
+    git merge origin/master
